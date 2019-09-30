@@ -1,17 +1,12 @@
-# Scala_Experiments
+# My Scalatra Web App #
 
-Branches:  
+## Build & Run ##
 
- - Algorithms
- - CATS
- - GUI
- - JavaAlgorithms
- - SCALA_JS
- - SCALA_NOTES
- - SCRIPTS
- - exercism
- - formula-alalizer
- - playing-with-actors-2
- - scala-labs
- - scalafix
- - scalaudemyproj
+```sh
+$ cd my-scalatra-web-app
+$ sbt
+> jetty:start
+> browse
+```
+
+If `browse` doesn't launch your browser, manually open [http://localhost:8080/](http://localhost:8080/) in your browser.
