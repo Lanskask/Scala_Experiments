@@ -1,0 +1,22 @@
+
+
+
+// Main\$.class
+public final class Main$ {
+  public static final Main$ MODULE$;
+  public static {};
+  public void main(java.lang.String[]);
+}
+
+// Main\$\$anon\$1.class
+public final class Main$$anon$1 {
+  public Main$$anon$1();
+}
+
+// Main\$\$anon\$1\$Friend.class
+public interface Main$$anon$1$Friend {
+  public static void listen$(Main$$anon$1$Friend);
+  public void listen();
+  public abstract Main$$anon$1 Main$$anon$Friend$$$outer();
+  public static void $init$(Main$$anon$1$Friend);
+}
